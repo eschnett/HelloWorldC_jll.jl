@@ -1,0 +1,120 @@
+[[HelloWorldC]]
+arch = "aarch64"
+git-tree-sha1 = "6f0144e3637fc4174bc7dccb0c177ef536bd4979"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "5dbf398dc2fdf00ea99a4595ea1ee76262981309014115ca796727951e154203"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "aarch64"
+git-tree-sha1 = "a0e7abfecb4a16ff1020a5a9f780f96db037e5be"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "4bfa831cc631e8689b26f4e90855e4819dbf9b44cb7ffd00b4b0db4307134048"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ca74dd88209fa47311aa653be09baad606d77789"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "6b3f1bcf7495195f1a4b22297d2b166fbcab974c07ce7d00f413d32541e060c6"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e6bc3f72b5f7335fdd7b9fe8df2707fcee798d00"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "fd039056bc2be5857bea687e299c87004c4011d1befd947f3b90c26ca7d77308"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "935ed3f5362f183bd4e119be1627cb38c260c2a9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "bf5857c0048271abe8156c08e22c94e5cfc2ae6a99e2d6d5c49bccfc71c89eb7"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "902fa3f0208f90f83d5e6c3db9c74bef3f152c22"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "2f23f0b7012e53644d828e903d2a4b69c659352acd95b43800c6c817a38d9cd9"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldC]]
+arch = "powerpc64le"
+git-tree-sha1 = "80ed5d291ff7f91c79bb8b53f2fc49f150924031"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "c0336652f5424e5136369205700223c12797f667525181745bc29fef74d7c8d4"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "powerpc64le"
+git-tree-sha1 = "68217c9cfb54b1d616b7eabcb9dbcaee925f9441"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "d71cde0e32a5402baeff31983727a30d064d836cde14bcdcb151f84ff097ce6a"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "52ff3b9997126144cd0f34cc5263fe9939a254d9"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HelloWorldC.download]]
+    sha256 = "b54b22bbb06ac972d9663868c68666afd78676dad2ed2874d28f338b3a26182b"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "372a6a64194e5223045162c3f813c6252f3049da"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HelloWorldC.download]]
+    sha256 = "412b8142568f04f0b20125fa38fa6cb60215465fed46da4252402ec505facf11"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "7f496f9bd2335339574fc5cdd9f5cc62f8b0088e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "96759d22cdf22c86aabde92caca03286e8aece7ec7f6584a3f859008e34a5bbb"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "f8f6a0c89410cef5c2c57ed612f81b649304506c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "3b4691ed3e44a420655fab571c06c0f0fa923c27b6271e9ad96dae7a9678729c"
+    url = "https://github.com/eschnett/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.1.2+1/HelloWorldC.v1.1.2.x86_64-linux-gnu-libgfortran5.tar.gz"
